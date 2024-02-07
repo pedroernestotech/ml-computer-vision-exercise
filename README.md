@@ -1,2 +1,0 @@
-# ml-computer-vision-exercise
- 
