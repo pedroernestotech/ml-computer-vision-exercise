@@ -34,7 +34,7 @@ Apos o treinamento, utilizamos algumas imagens como teste e obtivemos um sucesso
 <BR>
 Aqui um exemplo de uma CNN tipo VGG-16 com sua arquitetura
 
-![Rede Neural VGG 16](https://www.researchgate.net/publication/346259768/figure/fig8/AS:961803395801094@1606323207263/VGG-16-CNN-model-architecture-layer-wise.jpg)
+![Rede Neural VGG 16](https://miro.medium.com/v2/resize:fit:720/format:webp/1*UeAhoKM0kJfCPA03wt5H0A.png)
 
 <BR>
 
